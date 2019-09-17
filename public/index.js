@@ -6,9 +6,15 @@ const success = document.querySelector('.success')
 const wrong = document.querySelector('.wrong')
 
 const check = {
-    thomas: '1',
-    udofia: 'learner000',
-    john: 'notfound404'
+  snowden: 'snowden',
+  rammy: 'rammy',
+  endurance: 'endurance',
+  yuwa: 'yuwa',
+  olamiji: 'olamiji',
+  teejay: 'teejay',
+  kenoly: 'kenoly',
+  ben: 'ben'
+
 }
 wrong.style.visibility = 'hidden'
 success.style.visibility = 'hidden'
